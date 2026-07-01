@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR6j0484/v1
+canonical_location: https://kanripo.org/bkk/KR6j0484/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說摩利支天菩薩陀羅尼經
+  identifiers:
+    alt_id:
+    - T21n1255a
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1255a.xml
+    old_id: T21n1255a
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0484_000.yaml, hash: 'sha256:6d4c9070f713c3123ba2b8a6f0436d8355d50b39d357029fc3f1d7c149bad240'}
+  - {seq: 1, filename: KR6j0484_001.yaml, hash: 'sha256:8f1e8f6705e5b8a57935f8a7aa728a136d58c168cbac7105717c003eefa5a05e'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0484_001.markers.yaml, hash: 'sha256:2f248c38e174c48a83dc62d0442c2c12ae9e76f9056bf46cdceab47e8f3a6c14'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0484_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1014
+  label: 佛說摩利支天菩薩陀羅尼經
+  type: juan
+  level: 1
+hash: sha256:194d925d6eec1b6bf7c770905652564642da8534b31fbb8eb382ce8732f2b404
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: T
