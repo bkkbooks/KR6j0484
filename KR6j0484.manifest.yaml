@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0484_000.yaml, hash: 'sha256:6d4c9070f713c3123ba2b8a6f0436d8355d50b39d357029fc3f1d7c149bad240'}
-  - {seq: 1, filename: KR6j0484_001.yaml, hash: 'sha256:8f1e8f6705e5b8a57935f8a7aa728a136d58c168cbac7105717c003eefa5a05e'}
+  - {seq: 1, filename: KR6j0484_001.yaml, hash: 'sha256:b97082f8c329eeef8ac95c1bbecc7923f6b26c376bad3e72dfe308dbce967a16'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0484_001.markers.yaml, hash: 'sha256:2f248c38e174c48a83dc62d0442c2c12ae9e76f9056bf46cdceab47e8f3a6c14'}
+  - {seq: 0, role: markers, filename: assets/KR6j0484_000.markers.yaml, hash: 'sha256:e6b81e9ea59f45e6653e07ebaef3be11b862821a6f711d6b4905d17b401965c3'}
+  - {seq: 1, role: markers, filename: assets/KR6j0484_001.markers.yaml, hash: 'sha256:75f6a161fa83215dd922dc6194cc6f5ffcf5db276d575140d7680798371df96d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +32,6 @@ table_of_contents:
   label: 佛說摩利支天菩薩陀羅尼經
   type: juan
   level: 1
-hash: sha256:194d925d6eec1b6bf7c770905652564642da8534b31fbb8eb382ce8732f2b404
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:7293e95d9f7d9b1ff84644f80db678ad2300cb325a6c0d2a366484cfbc9597da
 editions:
 - short: T
