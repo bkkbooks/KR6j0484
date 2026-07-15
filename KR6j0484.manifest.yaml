@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0484/v1
 canonical_location: https://kanripo.org/bkk/KR6j0484/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說摩利支天菩薩陀羅尼經
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0484_000.yaml, hash: 'sha256:6d4c9070f713c3123ba2b8a6f0436d8355d50b39d357029fc3f1d7c149bad240'}
-  - {seq: 1, filename: KR6j0484_001.yaml, hash: 'sha256:b97082f8c329eeef8ac95c1bbecc7923f6b26c376bad3e72dfe308dbce967a16'}
+  - {seq: 1, filename: KR6j0484_001.yaml, hash: 'sha256:4f23e87d294181e7b92206a0e22dcf34af19e24803226596b435edc8ab752c0f'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0484_000.markers.yaml, hash: 'sha256:e6b81e9ea59f45e6653e07ebaef3be11b862821a6f711d6b4905d17b401965c3'}
-  - {seq: 1, role: markers, filename: assets/KR6j0484_001.markers.yaml, hash: 'sha256:75f6a161fa83215dd922dc6194cc6f5ffcf5db276d575140d7680798371df96d'}
+  - {seq: 1, role: markers, filename: assets/KR6j0484_001.markers.yaml, hash: 'sha256:fc8b5ae2b8199dcf4a8eb5e1a13bece1cf8aee4a88ccbb267712cd47afb7e066'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,6 +32,9 @@ table_of_contents:
   label: 佛說摩利支天菩薩陀羅尼經
   type: juan
   level: 1
-hash: sha256:7293e95d9f7d9b1ff84644f80db678ad2300cb325a6c0d2a366484cfbc9597da
+hash: sha256:3ac91b40e8fac7850b0a256cbcd0826ef30a188c60ade36ab797d5950ca760a1
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
